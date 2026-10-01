@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**mostafasadeghi-1997/mostafasadeghi-1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mostafa Sadeghi 👋
 
-Here are some ideas to get you started:
+### Python & Django Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web applications and backend solutions using Python and Django, with a focus on clean, maintainable code and practical problem-solving.
+
+- 🐍 **Core:** Python, Django
+- ⚙️ **Interests:** Backend Development, REST APIs, Web Applications
+- 🤝 **Open to:** Freelance Projects & Collaborations
+- 🌱 **Always learning and improving**
+
+### 🛠️ Tech Stack
+
+Python · Django · Git · GitHub
+
+### 🚀 Featured Projects
+
+Explore my repositories to see my work, development process, and projects.
+
+### 📬 Let's Connect
+
+Interested in working together on a web project?
+Feel free to reach out through GitHub.
+
+---
+
+*Building useful things, one commit at a time.*
+  
